@@ -2,7 +2,7 @@
 
 API for TLoU Wiki consumes.
 
-# Requisites
+# Requirements
 
 - You must have NodeJS on your machine.
 
