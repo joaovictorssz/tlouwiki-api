@@ -1,0 +1,24 @@
+{
+  "name": "tlouwiki-api",
+  "version": "1.0.0",
+  "description": "An API that provides information of TLoU characters",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaovictorssz/tlouwiki-api.git"
+  },
+  "author": "joaovictorssz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joaovictorssz/tlouwiki-api/issues"
+  },
+  "homepage": "https://github.com/joaovictorssz/tlouwiki-api#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
